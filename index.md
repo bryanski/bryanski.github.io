@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Bryan Karl Yuson
+description: Software Developer
 ---
 
 # Hello, world! 
