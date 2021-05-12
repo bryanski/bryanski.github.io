@@ -1,1 +1,5 @@
-theme: jekyll-theme-tactile
+title: Bryan Karl Yuson
+description: Hello! I am software developer from Toronto.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
